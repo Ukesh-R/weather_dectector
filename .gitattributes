@@ -1,5 +1,2 @@
 lib/** linguist-language=Dart
-android/** linguist-vendored
-ios/** linguist-vendored
-linux/** linguist-vendored
-macos/** linguist-vendored
+
